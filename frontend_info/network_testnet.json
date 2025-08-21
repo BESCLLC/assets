@@ -1,0 +1,15 @@
+[
+  {
+    "title": "BESC Mainnet",
+    "url": "https://explorer.beschyperchain.com/",
+    "group": "Mainnets",
+    "icon": "https://raw.githubusercontent.com/BESCLLC/assets/master/frontend_info/icon.svg"
+  },
+  {
+    "title": "BESC Testnet",
+    "url": "https://testnet-explorer.beschyperchain.com/",
+    "group": "Testnets",
+    "icon": "https://raw.githubusercontent.com/BESCLLC/assets/master/frontend_info/icon.svg",
+    "isActive": true
+  }
+]
