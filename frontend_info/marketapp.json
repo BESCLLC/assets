@@ -2,11 +2,11 @@
   {
     "id": "bescswap",
     "title": "BESCswap",
-    "description": "Decentralized exchange on BESC Hyperchain offering fast swaps, liquidity pools, and yield farming.",
+    "description": "Decentralized exchange on BESC Hyperchain offering lightning-fast swaps, liquidity pools, and yield farming.",
     "category": "DEX",
     "website": "https://bescswap.com",
     "twitter": "https://twitter.com/besc_hyperchain",
     "contract": "0x20EE72D1B7E36e97566f31761dfF14eDc35Fbf22",
-    "icon": "https://raw.githubusercontent.com/BESCLLC/assets/master/logos/bescswap.png"
+    "icon": "https://raw.githubusercontent.com/BESCLLC/assets/f678ffb4e3142649e68bef2217ece223bbee80aa/frontend_info/icon.svg"
   }
 ]
